@@ -1,0 +1,13 @@
+To install or upgrade eksctl on Linux using curl
+
+Download and extract the latest release of eksctl with the following command.
+
+curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
+Move the extracted binary to /usr/local/bin.
+
+sudo mv /tmp/eksctl /usr/local/bin
+Test that your installation was successful with the following command.
+
+eksctl version
+Note
+The GitTag version should be at least 0.70.0. If not, check your terminal output for any installation or upgrade errors, or replace the address in step 1 with https://github.com/weaveworks/eksctl/releases/download/v0.70.0/eksctl_Linux_amd64.tar.gz and complete steps 1-3 again.
