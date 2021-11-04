@@ -2,3 +2,6 @@ https://helm.sh/docs/intro/install/
 https://devopsrealtime.com/how-to-install-and-setup-kubernetes-cluster-kops-eksctl-kubeadm/
 https://courses.valaxy.in/courses/take/dpt-02/lessons/28806847-l51-eks-and-helm-deployment
 https://github.com/helm/helm/releases
+
+helm 64linux link  
+https://get.helm.sh/helm-v3.7.1-linux-amd64.tar.gz
