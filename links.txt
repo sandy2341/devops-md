@@ -7,3 +7,13 @@ helm 64linux link
 https://get.helm.sh/helm-v3.7.1-linux-amd64.tar.gz
 tar -zxvf helm-v3.7.1-linux-amd64.tar.gz   ----- extract tar
 
+
+major project links 
+https://dlcdn.apache.org/maven/maven-3/3.8.3/binaries/apache-maven-3.8.3-bin.zip
+
+
+docker deamon to jen
+https://forums.docker.com/t/connecting-via-unix-socket-to-the-docker-daemon/17396/2
+
+push artifactory plugin helm
+https://github.com/belitre/helm-push-artifactory-plugin
