@@ -5,3 +5,5 @@ https://github.com/helm/helm/releases
 
 helm 64linux link  
 https://get.helm.sh/helm-v3.7.1-linux-amd64.tar.gz
+tar -zxvf helm-v3.7.1-linux-amd64.tar.gz   ----- extract tar
+
