@@ -17,3 +17,4 @@ https://forums.docker.com/t/connecting-via-unix-socket-to-the-docker-daemon/1739
 
 push artifactory plugin helm
 https://github.com/belitre/helm-push-artifactory-plugin
+IMPORTANT: by default helm plugin install will install the version from the master branch, and that version is for Helm v2, if you are using Helm v3 please add --version 1.0.1 (or the version you want to use) to your helm plugin install command. Also please always use the flag --version in your CI/CD system to avoid surprises when new changes are merged to master!
