@@ -1,1 +1,3 @@
 https://helm.sh/docs/intro/install/
+https://devopsrealtime.com/how-to-install-and-setup-kubernetes-cluster-kops-eksctl-kubeadm/
+https://courses.valaxy.in/courses/take/dpt-02/lessons/28806847-l51-eks-and-helm-deployment
