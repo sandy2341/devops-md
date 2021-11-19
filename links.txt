@@ -24,3 +24,7 @@ helm plugin list
 
 declarative pipeline syntax jfrog 
 https://github.com/jfrog/project-examples/tree/master/jenkins-examples/pipeline-examples/declarative-examples
+
+
+Dockerfile cmnds
+https://www.geeksforgeeks.org/docker-arg-instruction/
