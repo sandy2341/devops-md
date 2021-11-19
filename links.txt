@@ -28,3 +28,6 @@ https://github.com/jfrog/project-examples/tree/master/jenkins-examples/pipeline-
 
 Dockerfile cmnds
 https://www.geeksforgeeks.org/docker-arg-instruction/
+
+kubernetes doc
+https://github.com/kubernetes-sigs
