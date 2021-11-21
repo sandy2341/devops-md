@@ -34,3 +34,6 @@ https://github.com/kubernetes-sigs
 
 zip/unzip
 https://www.cyberciti.biz/faq/how-to-unzip-a-zip-file-using-the-linux-and-unix-bash-shell-terminal/
+
+ELASTICSEARCH DOC
+https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docker.html
